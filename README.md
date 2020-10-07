@@ -1,6 +1,6 @@
 # GIKT
 
-The code is related to the paper `GIKT: A Graph-based Interaction Model for Knowledge Tracing` published at ECML-PKDD 2020[Paper in arXiv](https://arxiv.org/abs/2009.05991).
+The code is related to the paper `GIKT: A Graph-based Interaction Model for Knowledge Tracing` published at ECML-PKDD 2020 [Paper in arXiv](https://arxiv.org/abs/2009.05991).
 
 
 ## Datasets
