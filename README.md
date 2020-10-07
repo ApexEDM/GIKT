@@ -14,6 +14,7 @@ ASSIST2012: [download](https://drive.google.com/file/d/0BxCxNjHXlkkHczVDT2kyaTQy
 
 EdNet: [download](https://drive.google.com/file/d/1AmGcOs5U31wIIqvthn9ARqJMrMTFTcaw/view)
 
+You should create a folder named `data` for datasets. Besides, folders `checkpoint` and `logs` are also needed to create for saving model and log in our experiments.
 
 ## Environment Requirement
 
@@ -30,3 +31,6 @@ numpy == 1.15.2
 ```
 python main.py --dataset assist09_3 --n_hop 3 --skill_neighbor_num 4 --question_neighbor_num 4 --hist_neighbor_num 3 --next_neighbor_num 4 --model hsei --lr 0.001 --att_bound 0.7 --sim_emb question_emb --dropout_keep_probs [0.8,0.8,1]
 ```
+
+If you have more questions about our experiments, you can contact us. 
+email: yyang0324@sjtu.edu.cn
