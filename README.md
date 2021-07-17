@@ -10,7 +10,7 @@ If you want to process the datasets by yourself, you can download them by the fo
 
 ASSIST09:[download](https://drive.google.com/file/d/1NNXHFRxcArrU0ZJSb9BIL56vmUt5FhlE/view)
 
-ASSIST2012: [download](https://drive.google.com/file/d/0BxCxNjHXlkkHczVDT2kyaTQyZUk/edit?usp=sharing)
+ASSIST2012: [download](https://drive.google.com/file/d/1cU6Ft4R3hLqA7G1rIGArVfelSZvc6RxY/view?usp=sharing)
 
 EdNet: [download](https://drive.google.com/file/d/1AmGcOs5U31wIIqvthn9ARqJMrMTFTcaw/view)
 
